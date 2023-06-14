@@ -16,7 +16,6 @@ using namespace std;
 #define imax INT_MAX
 #define imin INT_MIN
 #define exp 1e9
-#define for(x) for(ll i = 0; i < x; i++)
 #define sz(x) (int((x).size()))
 int32_t main()
 {
